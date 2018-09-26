@@ -1,0 +1,12 @@
+﻿  ClientSocket.cpp
+ClientSocket.obj : error LNK2019: unresolved external symbol __imp__closesocket@4 referenced in function _main
+ClientSocket.obj : error LNK2019: unresolved external symbol __imp__connect@12 referenced in function _main
+ClientSocket.obj : error LNK2019: unresolved external symbol __imp__htons@4 referenced in function _main
+ClientSocket.obj : error LNK2019: unresolved external symbol __imp__inet_addr@4 referenced in function _main
+ClientSocket.obj : error LNK2019: unresolved external symbol __imp__recv@16 referenced in function _main
+ClientSocket.obj : error LNK2019: unresolved external symbol __imp__send@16 referenced in function _main
+ClientSocket.obj : error LNK2019: unresolved external symbol __imp__socket@12 referenced in function _main
+ClientSocket.obj : error LNK2019: unresolved external symbol __imp__WSAStartup@8 referenced in function _main
+ClientSocket.obj : error LNK2019: unresolved external symbol __imp__WSACleanup@0 referenced in function _main
+ClientSocket.obj : error LNK2019: unresolved external symbol __imp__WSAGetLastError@0 referenced in function _main
+C:\Users\Thoma\OneDrive\Documents\programs\Networking\Lab7 Sockets\ClientSocket\Debug\ClientSocket.exe : fatal error LNK1120: 10 unresolved externals

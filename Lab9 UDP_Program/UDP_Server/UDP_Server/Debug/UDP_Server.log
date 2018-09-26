@@ -1,0 +1,5 @@
+﻿  UDP_Server.cpp
+c:\users\thoma\onedrive\documents\programs\networking\lab9 udp_program\udp_server\udp_server\udp_server.cpp(53): warning C4091: 'typedef ': ignored on left of 'CHAT_USER' when no variable is declared
+c:\users\thoma\onedrive\documents\programs\networking\lab9 udp_program\udp_server\udp_server\udp_server.cpp(261): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 3 has type 'in_addr::<unnamed-type-S_un>'
+c:\users\thoma\onedrive\documents\programs\networking\lab9 udp_program\udp_server\udp_server\udp_server.cpp(66): warning C4101: 'message': unreferenced local variable
+  UDP_Server.vcxproj -> C:\Users\Thoma\OneDrive\Documents\programs\Networking\Lab9 UDP_Program\UDP_Server\Debug\UDP_Server.exe

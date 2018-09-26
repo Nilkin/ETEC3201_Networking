@@ -1,0 +1,3 @@
+﻿  NetworkingSockets.cpp
+c:\users\thoma\onedrive\documents\programs\networking\lab7 sockets\networkingsockets\networkingsockets\networkingsockets.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NetworkingSockets.vcxproj -> C:\Users\Thoma\OneDrive\Documents\programs\Networking\Lab7 Sockets\NetworkingSockets\Debug\NetworkingSockets.exe

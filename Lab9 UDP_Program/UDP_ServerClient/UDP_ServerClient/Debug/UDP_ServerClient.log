@@ -1,0 +1,3 @@
+﻿  UDP_ServerClient.cpp
+c:\users\thoma\onedrive\documents\programs\networking\lab9 udp_program\udp_serverclient\udp_serverclient\udp_serverclient.cpp(22): warning C4091: 'typedef ': ignored on left of 'CHAT_MSG' when no variable is declared
+  UDP_ServerClient.vcxproj -> C:\Users\Thoma\OneDrive\Documents\programs\Networking\Lab9 UDP_Program\UDP_ServerClient\Debug\UDP_ServerClient.exe
